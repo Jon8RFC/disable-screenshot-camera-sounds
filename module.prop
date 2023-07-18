@@ -1,0 +1,10 @@
+id=disable-screenshot-camera-sounds
+name=Disable screenshot and camera sounds
+version=v1.6.0
+versionCode=1600
+author=ant9000 (v1.4), Jon8RFC (v1.6.0)
+description=Systemlessly disable screenshot and camera sounds
+updateJson=https://raw.githubusercontent.com/Jon8RFC/disable-screenshot-camera-sounds/main/update.json
+support=https://github.com/Jon8RFC/disable-screenshot-camera-sounds/
+donate=https://www.paypal.me/jon8rfc
+template=1500
